@@ -1,7 +1,7 @@
 # Hybrid-recommendation-system
 
 
-# Hybrid LEA-Neuroplasticity Recommendation System
+
 
 A state-of-the-art recommendation system that combines **LLM as Environment (LEA)** modeling with **neuroplasticity-inspired reward shaping** and **Deep Q-Network (DQN)** reinforcement learning.
 
